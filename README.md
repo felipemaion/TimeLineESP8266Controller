@@ -10,11 +10,9 @@ Cada faixa da timeline liga e desliga um relé de um ESP8266 via rede, em sincro
 
 ## Demonstração
 
-<a href="https://www.youtube.com/watch?v=5Dxcy1VkP2E" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.youtube.com/vi/5Dxcy1VkP2E/hqdefault.jpg" alt="Demonstração do TimeLine ESP8266 Controller">
-</a>
+[![Demonstração do TimeLine ESP8266 Controller](https://img.youtube.com/vi/5Dxcy1VkP2E/hqdefault.jpg)](https://www.youtube.com/watch?v=5Dxcy1VkP2E)
 
-▶️ Vídeo: <a href="https://www.youtube.com/watch?v=5Dxcy1VkP2E" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=5Dxcy1VkP2E</a>
+▶️ Vídeo: <https://www.youtube.com/watch?v=5Dxcy1VkP2E>
 
 ---
 
