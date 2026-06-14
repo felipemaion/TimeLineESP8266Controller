@@ -359,4 +359,4 @@ Este era um projeto pessoal/experimental; vale registrar honestamente o estado:
 
 ## Licença
 
-Defina a licença desejada (ex.: MIT) adicionando um arquivo `LICENSE`. Sem isso, o conteúdo permanece "todos os direitos reservados" por padrão.
+Distribuído sob a licença **MIT**. Veja o arquivo [`LICENSE`](LICENSE) para o texto completo.
