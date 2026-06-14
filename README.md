@@ -8,8 +8,17 @@ Cada faixa da timeline liga e desliga um relé de um ESP8266 via rede, em sincro
 
 ---
 
+## Demonstração
+
+[![Demonstração do TimeLine ESP8266 Controller](https://img.youtube.com/vi/5Dxcy1VkP2E/hqdefault.jpg)](https://www.youtube.com/watch?v=5Dxcy1VkP2E)
+
+▶️ Vídeo: <https://www.youtube.com/watch?v=5Dxcy1VkP2E>
+
+---
+
 ## Sumário
 
+- [Demonstração](#demonstração)
 - [Arquitetura](#arquitetura)
 - [Como funciona a timeline](#como-funciona-a-timeline)
 - [Protocolo de comunicação com os ESP8266](#protocolo-de-comunicação-com-os-esp8266)
