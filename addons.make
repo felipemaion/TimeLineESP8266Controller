@@ -1,0 +1,12 @@
+ofxXmlSettings
+ofxControlPanel
+ofxGui
+ofxMSATimer
+ofxNetwork
+ofxOsc
+ofxPoco
+ofxRange
+ofxTextInputField
+ofxTimecode
+ofxTween
+ofxTimeline

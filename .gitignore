@@ -1,0 +1,87 @@
+# ─────────────────────────────────────────────────────────────
+# macOS / sistema
+# ─────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+Thumbs.db
+desktop.ini
+
+# ─────────────────────────────────────────────────────────────
+# openFrameworks — build / saída de compilação
+# ─────────────────────────────────────────────────────────────
+obj/
+*.o
+*.mode*v3
+bin/*.app/
+bin/*.exe
+bin/*.dll
+bin/*.pdb
+bin/*.ilk
+bin/*_debug
+bin/*_debug.app/
+# binário gerado (mesmo nome do app, sem extensão) na pasta bin/
+/bin/ESP8266_timeline_controller
+/bin/TimeLineESP8266Controller
+
+# Project Generator
+*.recv
+
+# ─────────────────────────────────────────────────────────────
+# Xcode
+# ─────────────────────────────────────────────────────────────
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# Visual Studio
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.vcxproj.user
+.vs/
+Debug/
+Release/
+ipch/
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbTemp
+
+# ─────────────────────────────────────────────────────────────
+# Assets de runtime grandes (não versionar mídia pesada)
+# ─────────────────────────────────────────────────────────────
+# Vídeo de fundo do telão e outras mídias pesadas:
+bin/data/*.mov
+bin/data/*.mp4
+bin/data/*.avi
+bin/data/*.mkv
+bin/data/*.aif
+bin/data/*.aiff
+bin/data/*.wav
+bin/data/*.mp3
+*.mov
+*.mp4
+*.zip
+
+# settings/estado de runtime gerados pelo app
+bin/data/settings.xml
+
+# preserva a estrutura da pasta data
+!bin/data/.gitkeep
+
+# ─────────────────────────────────────────────────────────────
+# Diversos do projeto
+# ─────────────────────────────────────────────────────────────
+BACKUP/
+src.zip
+*.log

@@ -1,0 +1,77 @@
+<keyframes>
+    <key>
+        <flag>FLAG ZERO</flag>
+        <time>00:00:00:000</time>
+        <value>0.988083541</value>
+    </key>
+    <key>
+        <flag />
+        <time>00:00:41:479</time>
+        <value>0.493379056</value>
+    </key>
+    <key>
+        <flag>FADE ESCURO</flag>
+        <time>00:01:22:725</time>
+        <value>0.442440152</value>
+    </key>
+    <key>
+        <flag />
+        <time>00:01:43:809</time>
+        <value>0.017504990</value>
+    </key>
+    <key>
+        <flag>LIGANDO HemoSphere</flag>
+        <time>00:01:51:250</time>
+        <value>0.666338682</value>
+    </key>
+    <key>
+        <flag>ENTRADA MARCIO</flag>
+        <time>00:02:12:450</time>
+        <value>0.554389417</value>
+    </key>
+    <key>
+        <flag>OFF</flag>
+        <time>00:02:36:744</time>
+        <value>0.402577460</value>
+    </key>
+    <key>
+        <flag>Tuanny OFF</flag>
+        <time>00:02:37:378</time>
+        <value>0.553913474</value>
+    </key>
+    <key>
+        <flag>Amanda</flag>
+        <time>00:02:37:543</time>
+        <value>0.599314272</value>
+    </key>
+    <key>
+        <flag>MARCIO ON</flag>
+        <time>00:02:47:724</time>
+        <value>0.584180653</value>
+    </key>
+    <key>
+        <flag>MARCIO OFF</flag>
+        <time>00:02:52:103</time>
+        <value>0.478245437</value>
+    </key>
+    <key>
+        <flag>MARCIO ON</flag>
+        <time>00:02:57:323</time>
+        <value>0.432844639</value>
+    </key>
+    <key>
+        <flag>MARCIO OFF</flag>
+        <time>00:03:04:577</time>
+        <value>0.281508625</value>
+    </key>
+    <key>
+        <flag>MENINAS ON</flag>
+        <time>00:03:32:579</time>
+        <value>0.069638193</value>
+    </key>
+    <key>
+        <flag />
+        <time>00:03:40:581</time>
+        <value>0.463111818</value>
+    </key>
+</keyframes>

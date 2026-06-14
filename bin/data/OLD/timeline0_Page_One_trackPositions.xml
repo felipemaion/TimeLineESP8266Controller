@@ -1,0 +1,110 @@
+<positions>
+    <element name="Audio">
+        <x>0.000000000</x>
+        <y>254.585937500</y>
+        <width>1024.000000000</width>
+        <height>186.121093750</height>
+    </element>
+    <element name="CORAÇÃO 1">
+        <x>0.000000000</x>
+        <y>382.585937500</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="CORAÇÃO 2">
+        <x>0.000000000</x>
+        <y>446.585937500</y>
+        <width>1119.000000000</width>
+        <height>44.664062500</height>
+    </element>
+    <element name="Momentos">
+        <x>0.000000000</x>
+        <y>254.585937500</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="MÚSICA">
+        <x>0.000000000</x>
+        <y>52.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="ROUPA 1">
+        <x>0.000000000</x>
+        <y>318.585937500</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="ROUPA 2">
+        <x>0.000000000</x>
+        <y>446.585937500</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="ROUPA 3">
+        <x>0.000000000</x>
+        <y>510.585937500</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="ROUPA 4">
+        <x>0.000000000</x>
+        <y>574.585937500</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Video">
+        <x>0.000000000</x>
+        <y>52.000000000</y>
+        <width>1024.000000000</width>
+        <height>178.585937500</height>
+    </element>
+    <element name="audio">
+        <x>0.000000000</x>
+        <y>436.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="bangs">
+        <x>0.000000000</x>
+        <y>52.000000000</y>
+        <width>963.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="colors">
+        <x>0.000000000</x>
+        <y>619.628906250</y>
+        <width>963.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="curves">
+        <x>0.000000000</x>
+        <y>116.000000000</y>
+        <width>963.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="flags">
+        <x>0.000000000</x>
+        <y>298.308593750</y>
+        <width>963.000000000</width>
+        <height>233.320312500</height>
+    </element>
+    <element name="lfo">
+        <x>0.000000000</x>
+        <y>52.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="switches">
+        <x>0.000000000</x>
+        <y>180.000000000</y>
+        <width>963.000000000</width>
+        <height>94.308593750</height>
+    </element>
+    <element name="video">
+        <x>0.000000000</x>
+        <y>52.000000000</y>
+        <width>1024.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>
